@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #231f20;
+  padding: 40px;
+}
+.image-4 {
+  width: 100%;
+}
+.main-header {
+  font-family: 'Roboto';
+  font-size: 30px;
+  margin-left: 40px;
+  color: #ffffff;
+}

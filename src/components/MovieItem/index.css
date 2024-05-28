@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.button-containerss {
+  background-color: transparent;
+  border-style: solid;
+  border-width: 0px;
+  align-items: flex-end;
+  display: flex;
+  justify-content: flex-end;
+}
+.containerssss {
+  padding-left: 40px;
+}
+.image-1 {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .image-1 {
+    width: 100%;
+  }
+}
